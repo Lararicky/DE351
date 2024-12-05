@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "cors": "^2.8.5",
+    "express-fileupload": "^1.5.1",
+    "jquery": "^3.7.1",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^5.1.4",
+    "@types/jest": "^29.5.14",
+    "@types/jquery": "^3.5.32",
+    "@types/mocha": "^10.0.9"
+  }
+}
